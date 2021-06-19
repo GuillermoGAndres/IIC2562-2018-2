@@ -3,6 +3,9 @@
 ## 2018-2
 Bienvenidos a la página de apoyo del curso Taller de Programacion II.
 
+Web site
+https://programacioncompetitivapuc.github.io/IIC2552-2021-1/resources/cpp
+
 # Instrucciones del Curso
 
 Este es un curso 100% práctico, orientado a entrenar a alumnos en [programación competitiva](https://es.wikipedia.org/wiki/Usuario:Ltaravilse/Programaci%C3%B3n_competitiva) y preparar equipos que participen en la [ACM ICPC](https://en.wikipedia.org/wiki/ACM_International_Collegiate_Programming_Contest) (celebrada anualmente) representando a la universidad. Por lo tanto, la nota final dependerá de la resolución por parte del alumno de problemas de programación competitiva. Cada cierto tiempo (una vez cada 1 o 2 semanas) se publicará un *contest* (o competencia, en español). Los contests se caracterizan por lo siguiente:
